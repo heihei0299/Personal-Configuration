@@ -1,0 +1,10 @@
+# eza 替换 ls（带图标，需要 Nerd Fonts）
+alias ls='lsd --group-dirs first'
+alias ll='ls -l'
+alias la='ls -al'
+alias lt='ls --tree  --depth=2'
+alias cat='batcat'
+alias man='tldr'
+alias du='ncdu'
+alias fd='fdfind -HI'   
+alias nano='nano -m'
