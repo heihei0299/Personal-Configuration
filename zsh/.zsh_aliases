@@ -8,3 +8,11 @@ alias man='tldr'
 alias du='ncdu'
 alias fd='fdfind -HI'   
 alias nano='nano -m'
+
+
+
+###-------------- git ------------------###
+
+日志查看优化
+alias git-log='git log --pretty=oneline --all --graph --abbrev-commit'
+
